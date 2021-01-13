@@ -1,0 +1,6 @@
+E:\Private\Projects\Proxy\Proxy\ProxyTest\bin\Debug\ProxyTest.exe.config
+E:\Private\Projects\Proxy\Proxy\ProxyTest\bin\Debug\ProxyTest.exe
+E:\Private\Projects\Proxy\Proxy\ProxyTest\bin\Debug\ProxyTest.pdb
+E:\Private\Projects\Proxy\Proxy\ProxyTest\obj\Debug\ProxyTest.csprojAssemblyReference.cache
+E:\Private\Projects\Proxy\Proxy\ProxyTest\obj\Debug\ProxyTest.exe
+E:\Private\Projects\Proxy\Proxy\ProxyTest\obj\Debug\ProxyTest.pdb
